@@ -1,4 +1,4 @@
-# Basic_Web_Dev_Projects
+# Web-Development-Projects
 This repository contains some basic web development projects suitable for beginners developed using HTML,CSS and JS.
 
 I took help from following references while building this repo.
